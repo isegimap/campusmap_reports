@@ -1,11 +1,11 @@
-baseurl: /cb-tutorials
+baseurl: /campusmap_reports
 permalink: pretty
 paginate: 10
 relative_permalinks: true
 markdown: rdiscount
 prose:
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  siteurl: 'http://isegimap.github.io/campusmap_reports/'
+  relativeLinks: 'http://isegimap.github.io/campusmap_reports/links.jsonp'
   media: 'media'
   metadata:
     _posts:
